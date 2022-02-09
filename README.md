@@ -23,4 +23,4 @@
 
 ---
 
-<a href="https://vinicius-rampazzo.github.io/movie-cards-library/">Click here!! To browse the site and look at the design!</a>
+[Click here! To go to my website!](https://vinicius-rampazzo.github.io/movie-cards-library/)
